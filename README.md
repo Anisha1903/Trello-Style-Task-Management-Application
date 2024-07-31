@@ -126,14 +126,4 @@ You can find the postman collection for all the endpoints in file postman.json i
 1. Register a new user using the registration endpoint.
 2. Log in to receive a JWT token.
 3. Use the token to access task management endpoints.
-<<<<<<< HEAD
 4. Create, update, delete, and retrieve tasks as needed.
-=======
-4. Create, update, delete, and retrieve tasks as needed.
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
->>>>>>> 82d8cf5ecc012b3e534d92391bda31658fe715fe
