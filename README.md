@@ -2,7 +2,7 @@
 
 This is a full-stack Task Management Application built with **Next.js** for the frontend and **Node.js** with **Express** and **MongoDB** for the backend. The application allows users to register, log in, and manage tasks with features such as creating, updating, deleting, and retrieving tasks.
 
-**Live Demo**: [Link]()
+**Live Demo**: [Link](https://trello-style-task-management-application.vercel.app/login)
 
 ## Table of Contents
 
