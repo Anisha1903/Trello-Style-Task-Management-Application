@@ -2,6 +2,8 @@
 
 This is a full-stack Task Management Application built with **Next.js** for the frontend and **Node.js** with **Express** and **MongoDB** for the backend. The application allows users to register, log in, and manage tasks with features such as creating, updating, deleting, and retrieving tasks.
 
+**Live Demo**: [Link]()
+
 ## Table of Contents
 
 - [Features](#features)
@@ -50,7 +52,7 @@ This is a full-stack Task Management Application built with **Next.js** for the 
 
 Clone the repository
 ```bash
-   git clone https://github.com/Abhi6722/crework.git
+   git clone https://github.com/Anisha1903/Trello-Style-Task-Management-Application.git
    cd crework
    ```
 
@@ -125,3 +127,9 @@ You can find the postman collection for all the endpoints in file postman.json i
 2. Log in to receive a JWT token.
 3. Use the token to access task management endpoints.
 4. Create, update, delete, and retrieve tasks as needed.
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
